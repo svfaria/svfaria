@@ -28,11 +28,7 @@ Atualmente estou desenvolvendo habilidades em programação, análise de dados e
 ## 🛠️ Ferramentas em aprendizado
 
 - Python
-- Pandas
-- Numpy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
+- R
 
 ---
 
@@ -40,7 +36,6 @@ Atualmente estou desenvolvendo habilidades em programação, análise de dados e
 
 - Fundamentos de Ciência de Dados  
 - Análise exploratória de dados  
-- Machine Learning aplicado a dados científicos
 
 ---
 
